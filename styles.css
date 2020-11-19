@@ -1,0 +1,17 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,500&display=swap');
+
+body {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 900;
+    max-width: 600px;
+    margin: auto;;
+    line-height: 2.3em;
+    padding-top: 30px;
+    background-image: url("https://wallsheaven.com/photos/C288463791/220/subtle-diamonds-pattern.-vector-geometric-seamless-texture-with-small-rhombus-shapes,-grid,-net.-abstract-beige-graphic-ornament.-delicate-minimal-background.-repeat-minimalist-design-for-wallpapers.webp");
+} 
+
+button:hover {
+    background-color: blue;
+
+}
